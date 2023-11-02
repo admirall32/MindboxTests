@@ -1,0 +1,51 @@
+-- Создание таблицы Products
+CREATE TABLE Products (
+    ProductID INT PRIMARY KEY,
+    ProductName NVARCHAR(255)
+);
+
+-- Создание таблицы Categories
+CREATE TABLE Categories (
+    CategoryID INT PRIMARY KEY,
+    CategoryName NVARCHAR(255)
+);
+
+-- Создание связывающей таблицы ProductCategories
+CREATE TABLE ProductCategories (
+    ProductID INT,
+    CategoryID INT,
+    PRIMARY KEY (ProductID, CategoryID),
+    FOREIGN KEY (ProductID) REFERENCES Products (ProductID),
+    FOREIGN KEY (CategoryID) REFERENCES Categories (CategoryID)
+);
+
+
+
+
+-- Заполнение таблицы Products данными
+INSERT INTO Products (ProductID, ProductName)
+VALUES
+    (1, 'Product A'),
+    (2, 'Product B'),
+    (3, 'Product C'),
+    (4, 'Product D'),
+    (5, 'Product E');
+
+-- Заполнение таблицы Categories данными
+INSERT INTO Categories (CategoryID, CategoryName)
+VALUES
+    (1, 'Category A'),
+    (2, 'Category B'),
+    (3, 'Category C'),
+    (4, 'Category E');
+
+-- Заполнение связывающей таблицы ProductCategories данными
+-- Присвоение продуктам категорий
+INSERT INTO ProductCategories (ProductID, CategoryID)
+VALUES
+    (1, 1), -- Продукт A относится к категории A
+    (1, 2), -- Продукт A относится к категории B
+    (2, 2), -- Продукт B относится к категории B
+    (3, 1); -- Продукт C относится к категории A
+            -- Категории C и E без продуктов
+            -- Продукты D и E без категорий

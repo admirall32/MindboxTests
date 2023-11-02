@@ -1,0 +1,22 @@
+SELECT
+    ISNULL(P.ProductName, 'Нет продукта')AS 'Имя продукта',
+    ISNULL(C.CategoryName, 'Нет категории') AS 'Имя категории'
+FROM
+    ProductCategories AS PC
+FULL OUTER JOIN
+    Products AS P ON P.ProductID = PC.ProductID
+FULL OUTER JOIN
+    Categories AS C ON C.CategoryID = PC.CategoryID
+
+
+Вывод:
+
+Имя продукта	Имя категории
+Product A	    Category A
+Product A	    Category B
+Product B	    Category B
+Product C	    Category A
+Product D	    Нет категории
+Product E	    Нет категории
+Нет продукта	Category C
+Нет продукта	Category E

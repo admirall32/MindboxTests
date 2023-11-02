@@ -1,0 +1,24 @@
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net6.0\ShapeAreaCalculator.deps.json
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net6.0\ShapeAreaCalculator.dll
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net6.0\ShapeAreaCalculator.pdb
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.csproj.AssemblyReference.cache
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.AssemblyInfo.cs
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.dll
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\refint\ShapeAreaCalculator.dll
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.pdb
+D:\VS Projects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net6.0\ref\ShapeAreaCalculator.dll
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\bin\Debug\net6.0\ShapeAreaCalculator.deps.json
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\bin\Debug\net6.0\ShapeAreaCalculator.dll
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\bin\Debug\net6.0\ShapeAreaCalculator.pdb
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.AssemblyInfo.cs
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.dll
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\refint\ShapeAreaCalculator.dll
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ShapeAreaCalculator.pdb
+C:\Users\aazbk\source\repos\MindboxTests\ShapeAreaCalculator\obj\Debug\net6.0\ref\ShapeAreaCalculator.dll

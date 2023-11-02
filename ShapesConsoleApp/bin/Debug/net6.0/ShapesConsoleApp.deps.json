@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShapesConsoleApp/1.0.0": {
+        "dependencies": {
+          "ShapeAreaCalculator": "1.0.0"
+        },
+        "runtime": {
+          "ShapesConsoleApp.dll": {}
+        }
+      },
+      "ShapeAreaCalculator/1.0.0": {
+        "runtime": {
+          "ShapeAreaCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapesConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapeAreaCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
